@@ -1,31 +1,28 @@
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨 World, &lt;IAndersoft/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
+
+<br/>
+<br/>
+
 ## Me around the web:
 -------------------
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
+<a href="https://www.linkedin.com/company/89811535/admin/feed/posts">
     ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://twitter.com/intent/follow?screen_name=halmyradov">
     ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
 </a>
-<a href="https://www.instagram.com/halmyradov/">
+<a href="https://www.instagram.com/iandersoft/">
     ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
 </a>
-<a href="https://github.com/berkeli">
+<a href="https://github.com/iandersoft">
     ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
 </a>
 
 
@@ -68,14 +65,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨 World, &lt;IAndersoft/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
 
-<br/>
-<br/>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 
@@ -171,210 +161,3 @@
 ![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/master/github-contribution-grid-snake.svg)
-
-<br/>
-
-#
-
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@JayantGoel001/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C928%20hrs%2028%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 17,905 Contributions in the Year 2022
- > 
-> 📦 9.1 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 240 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    117 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-🌆 Daytime    274 commits    ██████████░░░░░░░░░░░░░░░   43.49% 
-🌃 Evening    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
-🌙 Night      124 commits    █████░░░░░░░░░░░░░░░░░░░░   19.68%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
-Wednesday    183 commits    ███████░░░░░░░░░░░░░░░░░░   29.05% 
-Thursday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Friday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
-Saturday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
-Sunday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    60 hrs 5 mins       ██████████████████████░░░   91.43% 
-JavaScript               1 hr 46 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
-HTML                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-TypeScript               42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
-EJS                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
-
-🔥 Editors: 
-Browser                  60 hrs 4 mins       ██████████████████████░░░   91.4% 
-VS Code                  3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
-WebStorm                 2 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
-
-🐱‍💻 Projects: 
-JayantGoel001.github.io  36 hrs 10 mins      █████████████░░░░░░░░░░░░   55.05% 
-metrics                  27 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.36% 
-Jupyter-x-Docker         1 hr 48 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
-PyGithub                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-💻 Operating System: 
-Windows                  65 hrs 43 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   20 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Jupyter Notebook         18 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
-C++                      13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.18%
-
-```
-
-
-
- Last Updated on 23/06/2022 02:54:40 UTC
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
-#
-
-<p align="center">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
-<p align="center">
-  <img width="75%" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.svg"/>
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/metrics.detailed.svg" width="75%"/>
-</p>
-
-<h1>
-  Connect With Me
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/hr.webp"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/cf.webp"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/lc.webp"/></code>
-  </a>
-</p>
-
-<br/>
-<br/>
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-#
-
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
-
------
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
-
-**Last Edited on**: 23/06/2022
