@@ -67,8 +67,6 @@
 
 
 
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
-
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
@@ -80,34 +78,7 @@
 <br/>
 
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/JayantGoel001" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
-  <a href="https://user-badge.committers.top/india_private/JayantGoel001"><img src="https://user-badge.committers.top/india_private/JayantGoel001.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/JayantGoel001"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
-<!-- <p align="center">
-  <code>
-    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2FJayantGoel001" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
-  </code>
-</p> -->
 
-#
-
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-
-<p align="center">
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
-</p>
-
-#
-
-<img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
-<br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
