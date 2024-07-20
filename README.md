@@ -63,7 +63,7 @@ We are proud to have worked with a diverse range of clients, from startups to Fo
 
 We would love to hear from you! Whether you have a project in mind, need support, or just want to learn more about what we do, feel free to reach out.
 
-- **Email**: elkinmahecha@ianderosft.com
+- **Email**: elkinmahecha@iandersoft.com
 - **Website**: [IAndersoft.com](https://www.iandersoft.com)
 - **LinkedIn**: [IAndersoft Software Factory](https://www.linkedin.com/company/89811535/admin/feed/posts/)
 
